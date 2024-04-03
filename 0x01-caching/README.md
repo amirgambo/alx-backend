@@ -512,6 +512,3 @@ DISCARD: L
 Current cache:
 C: Street
 H: H
-I: I
-M: M
-guillaume@ubuntu:~/0x01$ 
